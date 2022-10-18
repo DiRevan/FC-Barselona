@@ -1,0 +1,51 @@
+body {
+   background-color: #fff;
+}
+
+header {
+   background-color:  #2e2e2e;
+   border: 1px solid;
+   border-radius: 10px;
+   height: 100px;
+   
+   
+}
+
+.logo {
+   width: 100px;
+   height: 100px;
+   vertical-align: 1em;
+   border-radius: 100%;
+
+}
+
+.text1 {
+   color: #fff;
+   font-size: 18px;
+   text-align: left;
+   text-indent: 1em;
+   margin: -90px 100px 0px 78px;
+}
+
+.text2 {
+   color: #fff;
+   font-size: 12px;
+   text-align: left;
+   text-indent: 1em;
+   margin: 0px 0px 10px 84px;
+   
+   
+}
+
+.menu {
+   list-style-type: none;
+   margin: 200px 0px 0px -20px;
+   text-align: left;
+   margin: 110px 10px 20px -25px; 
+}
+
+.menu a {
+   color: black;
+   text-decoration: none;
+   font-size: 20px;
+}
